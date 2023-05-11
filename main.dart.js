@@ -58483,7 +58483,7 @@ return A.W($async$$0,r)},
 $S:26}
 A.Di.prototype={
 T(a){var s=null,r=A.a9u(s,B.C_,s)
-return new A.qY(new A.i1(s),A.aL(["/home",new A.W3(),"/secretfireapp/home",new A.W4()],t.N,t.f_),"/home",r,B.tV,!1,s)}}
+return new A.qY(new A.i1(s),A.aL(["/",new A.W3(),"/home",new A.W4()],t.N,t.f_),"/",r,B.tV,!1,s)}}
 A.W3.prototype={
 $1(a){return new A.i1(null)},
 $S:115}
